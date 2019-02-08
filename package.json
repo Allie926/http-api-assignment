@@ -1,0 +1,25 @@
+{
+  "name": "http-api-assignment",
+  "version": "1.0.0",
+  "description": "HTTP API Assignment",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "test": "echo \"Tests complete\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Allie926/http-api-assignment.git"
+  },
+  "author": "Allie Sangalli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Allie926/http-api-assignment/issues"
+  },
+  "homepage": "https://github.com/Allie926/http-api-assignment#readme",
+  "dependencies": {
+    "eslint": "^5.13.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  }
+}
